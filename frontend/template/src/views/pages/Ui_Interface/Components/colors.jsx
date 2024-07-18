@@ -42,7 +42,7 @@ const Colors = () => {
                                         <div>
                                             <div className="color-box bg-info p-4" />
                                             <p className="flex-1 text-sm my-1 pt-1">info</p>
-                                            <p className="flex-0 text-sm">#17a2b8</p>
+                                            <p className="flex-0 text-sm">#17A2B8</p>
                                         </div>
                                         <div>
                                             <div className="color-box bg-success p-4" />
